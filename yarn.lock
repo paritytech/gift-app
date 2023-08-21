@@ -1675,7 +1675,7 @@
     "@polkadot/util-crypto" "12.3.2"
     tslib "^2.5.3"
 
-"@polkadot/networks@12.3.2", "@polkadot/networks@^12.3.1", "@polkadot/networks@^12.3.2":
+"@polkadot/networks@12.3.2":
   version "12.3.2"
   resolved "https://registry.yarnpkg.com/@polkadot/networks/-/networks-12.3.2.tgz#131b0439c481add159814dd2cf0286c6c3fe5b3b"
   integrity sha512-uCkyybKoeEm1daKr0uT/9oNDHDDzCy2/ZdVl346hQqfdR1Ct3BaxMjxqvdmb5N8aCw0cBWSfgsxAYtw8ESmllQ==
@@ -1684,7 +1684,7 @@
     "@substrate/ss58-registry" "^1.40.0"
     tslib "^2.5.3"
 
-"@polkadot/networks@12.4.1", "@polkadot/networks@^12.4.1":
+"@polkadot/networks@12.4.1", "@polkadot/networks@^12.3.1", "@polkadot/networks@^12.4.1":
   version "12.4.1"
   resolved "https://registry.yarnpkg.com/@polkadot/networks/-/networks-12.4.1.tgz#b4e9104e016d8bd09706e5a640dff83b67378a3d"
   integrity sha512-plVju5afj5vpa5qv2/2DKtmpGQSHxAjKJVpWf8x74IeesGEflaoyz1vISLPDor9U8X/MNmj5glSbqXeFVA10kA==
@@ -2191,12 +2191,7 @@
     eventemitter3 "^4.0.7"
     smoldot "1.0.4"
 
-"@substrate/ss58-registry@^1.40.0":
-  version "1.41.0"
-  resolved "https://registry.yarnpkg.com/@substrate/ss58-registry/-/ss58-registry-1.41.0.tgz#dd18e132f44b73c3cd31cf0db489c10af70bef36"
-  integrity sha512-TLz5VkEaJRNFzf1Oiix9gqknKer3aKbLfjK9XHBFCIhdxlQpI+S6lZGu3wT4DHAGXPakYfXb8+9ZIOtWLcQ/2Q==
-
-"@substrate/ss58-registry@^1.43.0":
+"@substrate/ss58-registry@^1.40.0", "@substrate/ss58-registry@^1.43.0":
   version "1.43.0"
   resolved "https://registry.yarnpkg.com/@substrate/ss58-registry/-/ss58-registry-1.43.0.tgz#93108e45cb7ef6d82560c153e3692c2aa1c711b3"
   integrity sha512-USEkXA46P9sqClL7PZv0QFsit4S8Im97wchKG0/H/9q3AT/S76r40UHfCr4Un7eBJPE23f7fU9BZ0ITpP9MCsA==
